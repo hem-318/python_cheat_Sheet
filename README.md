@@ -13,7 +13,7 @@
 - <b>Application</b> - `All the examples are based on real applications,this makes it easy to know the real implementation`
 
 ### How to Use-
-<b>Just start reading the code and its output side by side</b> 
+<b>Just start reading the code from `cheat_sheet_as_executable.py` and its output side by side</b> 
 
 ![Screenshot_20211219_150033-1](https://user-images.githubusercontent.com/66408922/146670250-3508a929-626f-4b07-8970-bc2c4fee1efb.png)
 
