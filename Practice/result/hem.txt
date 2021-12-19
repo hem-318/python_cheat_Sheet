@@ -1,0 +1,9 @@
+Name = hem
+Marks in maths = 99
+Marks in chemistry = 97
+Marks in physics = 95
+Marks in Cs= 98
+Marks in english = 92
+Status = Pass
+Grade = A+
+Total percentage =  96.2%
